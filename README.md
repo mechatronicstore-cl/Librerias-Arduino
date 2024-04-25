@@ -1,4 +1,4 @@
 # Librerias-Arduino
-Libreria entregas por la Tienda de electronca, robotica  e impresiones 3D
+Libreria realizadas por la Tienda de electrónica, robotica  e impresiones 3D
 
 # MECHATRONCISTORE
